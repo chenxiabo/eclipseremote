@@ -2,7 +2,7 @@ package com.mayikt;
 
 public class User {
 	//123
-private int i = 102;
+private int i = 103;
 	
 //定义变量
 	int b = 99;
